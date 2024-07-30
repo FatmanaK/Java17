@@ -44,7 +44,7 @@ public class NumberSystems {
         // 0b10 -> 2^3*1 + 2^2*1 + 2^0*1 = 14
 
         //int binary3 = 0B210; // DOES NOT COMPILE
-        // [0-1]
+        // [0-1] binary 0-1 destekler 2 burda olmamali
 
         System.out.println(binary1);
         System.out.println(binary2);
